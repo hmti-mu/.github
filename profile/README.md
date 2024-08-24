@@ -1,4 +1,4 @@
-# Himpunan Mahasiswa Teknik Informatika Universitas Matana👋
+<h1 align="center">Himpunan Mahasiswa Teknik Informatika Universitas Matana👋</h1>
 
 <!--
 
