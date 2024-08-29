@@ -1,6 +1,6 @@
 <h1 align="center">Himpunan Mahasiswa Teknik Informatika Universitas Matana👋</h1>
 
-<h3 align="center"><strong>Jangan Ngoding Sendirian. Ngodinglah untuk Komunitas.</strong>. </h3>
+<h3 align="center"><strong>Don't code alone. Code for the community</strong>. </h3>
 
 
 <h4><strong>SIAPA KITA 🚀</strong></h6>
@@ -19,8 +19,11 @@ Kami juga menyelenggarakan acara yang menjadi ajang unjuk kreativitas dan inovas
 <h6>
 Selain itu, kami juga sangat bersemangat untuk ngoding demi komunitas. Menyelesaikan masalah di sekitar kita, khususnya di himpunan teknik informatika, adalah prioritas utama kami. Kami telah menciptakan beberapa proyek hebat dan mendorong setiap anggota untuk berkontribusi.</h6>
 </h6>
-<a style="text-align: center;"  href="https://www.instagram.com/himti.mu/?hl=en/"><img src="https://clipart.info/images/ccovers/1516920567instagram-png-logo-transparent.png" alt="Girl in a jacket" width="30" height="25">
-</a>
+<hr>
+<div align="center" > 
+  <a href="https://www.instagram.com/himti.mu/?hl=en"><img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/></a>
+
+</div>
 
 
 
