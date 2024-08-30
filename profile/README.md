@@ -4,7 +4,9 @@
 
 
 <h4><strong>SIAPA KITA 🚀</strong></h6>
-<h6 style="text-align: justify;">Himpunan Teknik Informatika adalah organisasi mahasiswa yang berfokus pada pengembangan keterampilan,
+<h6 style="text-align: justify;">
+  <a href="https://www.matanauniversity.ac.id/Teknik-Informatika//">Himpunan teknik informatika</a>
+ adalah organisasi mahasiswa yang berfokus pada pengembangan keterampilan,
   pengetahuan, dan jaringan profesional di bidang Teknik Informatika. Himpunan ini bertujuan untuk mendukung 
   anggotanya dalam menguasai teknologi informasi, pemrograman, dan sistem komputer, serta menjadi wadah untuk berkarya, berinovasi,
   dan berkolaborasi. Melalui berbagai kegiatan seperti seminar, workshop, lomba, dan proyek kolaboratif,
